@@ -2,7 +2,7 @@
 
 # Usage  
 - Use **safari**  
-- [Download the JS file](https://raw.githubusercontent.com/brakingdown/5.1-support/refs/heads/main/cadmium-playercore-6.0050.784.911_ENABLE_5.1_.js) and save it on your Mac  
+- [Download the JS file](https://raw.githubusercontent.com/brakingdown/5.1-support/refs/heads/main/cadmium-playercore-6.0050.784.911_ENABLE_5.1_.js) and save it on your disk  
 
 1. [Enable Safari's Developer Tools](https://support.apple.com/guide/safari/use-the-developer-tools-in-the-develop-menu-sfri20948/mac#:~:text=If%20you%20don%27t%20see,Show%20features%20for%20web%20developers.”)  
 2. Navigate to Netflix, start playing some content, then pause it
