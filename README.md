@@ -15,7 +15,7 @@
 - Enabled audio track visibility in the player to have the ability of toggling between 5.1 and 2.0 easily
 
 # Development​  
-The modifications are marked with //DOLBY-MOD comments. There are very few modifications, so if the version is updated, you can refer to the old version and make the changes yourself.
+The modifications are marked with `//DOLBY-MOD` comments. There are very few modifications, so if the version is updated, you can refer to the old version and make the changes yourself.
 
 # Acknowledgments
 https://forums.macrumors.com/threads/netflix-on-safari-with-dolby-atmos.2329766/page-2  
