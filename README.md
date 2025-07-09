@@ -1,6 +1,6 @@
 # Usage  
-### - Use **safari**  
-### - Download the JS file and save it on your Mac  
+- Use **safari**  
+- Download the JS file and save it on your Mac  
 
 1. Enable Safari's Developer Tools  
 2. Navigate to Netflix, start playing some content, then pause it
@@ -10,8 +10,13 @@
 6. Right-click the request, select **Create Response Local Override**. You will be taken to the Sources tab
 7. In the top right, click **Map to File** and select the modified cadmium that you downloaded earlier
 8. Reload the page
+# Features​  
+- Enabled **5.1 audio** support
+- Enabled audio track visibility in the player to have the ability of toggling between 5.1 and 2.0 easily
 
+# Development​  
+The modifications are marked with //DOLBY-MOD comments. There are very few modifications, so if the version is updated, you can refer to the old version and make the changes yourself.
 
-# Reference
+# Acknowledgments
 https://forums.macrumors.com/threads/netflix-on-safari-with-dolby-atmos.2329766/page-2  
 https://gist.github.com/iGerman00/df6c3b6d56c1df30fb85658a0a96999c
