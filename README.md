@@ -1,4 +1,4 @@
-**Deeply appreciate iGerman00's effort.**  
+**Deeply appreciate [iGerman00](https://gist.github.com/iGerman00)'s effort.**  
 
 # Usage  
 - Use **safari**  
