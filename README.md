@@ -13,7 +13,7 @@
 7. In the top right, click **Map to File** and select the modified cadmium that you downloaded earlier
 8. Reload the page
 # Features​  
-- Enabled **5.1 audio** support
+- Enabled **5.1 audio** / **Dolby Atmos** support
 - Enabled audio track visibility in the player to have the ability of toggling between 5.1 and 2.0 easily
 
 # Development​  
