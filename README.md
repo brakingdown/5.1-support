@@ -1,6 +1,6 @@
 # Usage  
-###- Use **safari**  
-###- Download the JS file and save it on your Mac  
+### - Use **safari**  
+### - Download the JS file and save it on your Mac  
 
 1. Enable Safari's Developer Tools  
 2. Navigate to Netflix, start playing some content, then pause it
